@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.header1{
+    padding: 40px;
+}
+.header1__container{
+    background-image: url(../images/rasm2.png);
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header1__list{
+   display: flex;
+   justify-content: space-between;
+}
+.header1__item{
+    margin-right: 80px;
+}
+.header1__button1{
+    font-family:sans-serif;
+    font-size: 15px;
+    padding: 5px 30px;
+    background: #318dab; 
+    color: #edeaf2;
+}
+.header1__link{
+    font-size: 10px;
+    text-align: left;
+    text-decoration: none;
+    color: #a8a4af;
+}
+.header1__link--active{
+    color: aliceblue;
+    font-size: 10px;
+}
+.header1__button2{
+    margin-right: 100px;
+    font-family:sans-serif;
+    font-size: 15px;
+    padding:5px 30px;
+    border: none;
+    background: #eff3f5; 
+    color: #610bea;
+}
+.header1__text{
+    color: whitesmoke;
+    font-size: 10px;
+    margin-left: 150px;
+}
+.header1__img{
+    margin-top: 50px;
+}
+
+
+
+.wrapper2__container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.wrapper2__title{
+    font-family: sans-serif;
+    margin-left:450px;
+}
+
+
+
+.wrapper1__container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.wrapper1__list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .wrapper1__item{
+    text-align: center;
+     padding: 20px;
+     width: 300px;
+     height: 300px;
+     background: transparent;
+     margin: 20px;
+     box-shadow: 15px 50px 50px 10px #e5e7ed66;
+     border-radius:5px;
+ }
+ .wrapper1__title{
+     font-size: 20px;
+     font-weight: 700;
+     line-height: 56px;
+     letter-spacing: 0em;
+ }
+ .wrap__list{
+     list-style: none;
+     text-align: center;
+ }
+
+
+
+
+ .hutter__container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+ }
+ .hutter__list{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+ }
+.hutter__item{
+    margin: 30px;
+}
+.hutter__link{
+    color:#977ec0;
+}
+.hutter__link-active{
+    color: #0943c2;
+}
+
+
+
+
+.head{
+    margin-top: 100px;
+}
+
+.head__container{
+    background-image: url(../images/rasm6.png);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.heir__list{
+    list-style: none;
+    justify-content: space-between;
+}
+.heir__item{
+    margin-top: 80px;
+}
+.heir__title{
+    margin-left: 50px;
+    color: #edeaf2;
+    font-size: 60px;
+    font-family: sans-serif;
+}
+.heir__text{
+    margin-top: 30px;
+    margin-left: 50px;
+    color: #edeaf2;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.heir__button{
+    padding: 10px 40px;
+    background: #0943c2;
+    color: #edeaf2;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.head__list{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.head__item{
+    margin-top: 200px;
+}
+.head__link{
+    margin-right: 100px;
+    color: #edeaf2;
+}
+.head__img1{
+    margin-top: 135px;
+}
+.head__img2{
+    margin-top: 185px;
+}
+.past__container{
+    margin-top: 90px;
+}
+
+
+
+
+
